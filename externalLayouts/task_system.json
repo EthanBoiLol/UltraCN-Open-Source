@@ -1,0 +1,49 @@
+{
+  "associatedLayout": "Night",
+  "name": "Task_System",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1080,
+      "layer": "Task_System_Background",
+      "name": "Task_System_Background",
+      "persistentUuid": "52fdce3f-e48d-4147-b4b8-5688cd0cf00d",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Task_Systems",
+      "name": "Task_Info",
+      "persistentUuid": "abf0f161-894a-47ae-adf7-aabd05846c44",
+      "width": 0,
+      "x": 610,
+      "y": 121,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.31928945896901745,
+    "windowMask": false
+  }
+}

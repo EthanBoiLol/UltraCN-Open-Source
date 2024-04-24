@@ -1,0 +1,80 @@
+{
+  "associatedLayout": "Night",
+  "name": "Light_System",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1080,
+      "layer": "Light_System_Dark",
+      "name": "Light_System_Black",
+      "persistentUuid": "76974f2b-c6cb-415c-9240-aa9090289cc8",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1236,
+      "layer": "Light_System",
+      "name": "Flashlight_Light_System",
+      "persistentUuid": "a37337c4-8877-4596-bcea-b5f127b7dd7c",
+      "width": 1496,
+      "x": -1726,
+      "y": 1308,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 2376,
+      "layer": "Light_System",
+      "name": "Light_System_Darkness",
+      "persistentUuid": "35680e9f-b6c4-44c7-8211-8f88a1f66769",
+      "width": 3922,
+      "x": 985,
+      "y": 2427,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 234,
+      "layer": "Light_System",
+      "name": "Light_System_Hitbox",
+      "persistentUuid": "0279e7ba-9bc3-4c60-84a4-a4a7bed349fb",
+      "width": 300,
+      "x": 2166,
+      "y": 602,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.2291680161074917,
+    "windowMask": false
+  }
+}

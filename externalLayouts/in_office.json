@@ -1,0 +1,64 @@
+{
+  "associatedLayout": "Night",
+  "name": "In_Office",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 843,
+      "layer": "Flashlight",
+      "name": "Flashlight",
+      "persistentUuid": "35ac3410-df4e-40f0-90c0-ef6fb2f10314",
+      "width": 831,
+      "x": -1057,
+      "y": 782,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 1080,
+      "layer": "Mask",
+      "name": "Mask",
+      "persistentUuid": "ec009708-8c56-450b-a99d-60bcd408cafd",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "In_Office",
+      "name": "Sign",
+      "persistentUuid": "4f83cd8a-98e9-4305-a996-ee9e9bdb2772",
+      "width": 0,
+      "x": 406,
+      "y": 972,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.34118560234734924,
+    "windowMask": false
+  }
+}

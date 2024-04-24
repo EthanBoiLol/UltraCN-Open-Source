@@ -1,0 +1,101 @@
+{
+  "associatedLayout": "Night",
+  "name": "Doors",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Doors",
+      "name": "Door_Left",
+      "persistentUuid": "5ea6d9e2-5862-4aed-8783-db01cda8f56e",
+      "width": 0,
+      "x": 216,
+      "y": 286,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Doors",
+      "name": "Door_Right",
+      "persistentUuid": "8caac22f-70f3-4960-910c-9a34b0e8bed3",
+      "width": 0,
+      "x": 2042,
+      "y": 286,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Doors",
+      "name": "Front_Vent",
+      "persistentUuid": "cb096fb2-3680-4ec2-aa60-01c824ad08e8",
+      "width": 269,
+      "x": 913,
+      "y": 146,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "Open",
+          "type": "boolean",
+          "value": true
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Doors",
+      "name": "Side_Vent",
+      "persistentUuid": "365c082a-275d-47f1-83f8-ecc249c9a546",
+      "width": 0,
+      "x": 2270,
+      "y": 799,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Doors",
+      "name": "Lever",
+      "persistentUuid": "c80af46b-30bf-485a-8231-17d67047e6c1",
+      "width": 0,
+      "x": 1152,
+      "y": 144,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.15392788923483336,
+    "windowMask": false
+  }
+}
